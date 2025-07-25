@@ -53,7 +53,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: true,
       appBar: AppBar(
-        title: const Text("SocketTalk"),
+        title: const Text("HowdyChats"),
         backgroundColor: AppColors.appBar,
       ),
       body: Column(
